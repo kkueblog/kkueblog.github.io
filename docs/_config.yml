@@ -21,7 +21,7 @@
 title: KKUE PARK'S BLOG
 email: kkuepark@gmail.com
 description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kkuepark.github.io/blog"
 twitter_username: jekyllrb
 github_username:  jekyll
