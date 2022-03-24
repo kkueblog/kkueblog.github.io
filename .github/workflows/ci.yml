@@ -37,7 +37,7 @@ jobs:
     - name: Copy site
       run: |
         pushd site
-        cp -rvf ../code/build/* . 
+        cp -rvf ../code/docs/build/* . 
         popd
         ls -la site/ 
     - name: Publish
