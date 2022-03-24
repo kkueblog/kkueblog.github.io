@@ -20,8 +20,8 @@ jobs:
       uses: actions/checkout@v2
       with: 
         token: ${{ secrets.MY_TOKEN }}
-        repository: <PUBLIC_REPO>
-        ref: master 
+        repository: kkuepark/blog
+        ref: main 
         path: site
     - name: Perform jekyll build
       uses: helaili/jekyll-action@v2
@@ -47,5 +47,5 @@ jobs:
         pushd site 
         git add . 
         git commit -m "jekyll build from Action ${GITHUB_SHA}" 
-        git push origin master
+        git push origin main
         popd
