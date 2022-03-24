@@ -37,7 +37,7 @@ jobs:
     - name: Copy site
       run: |
         pushd site
-        cp -rvf ../jekyll_build/* . 
+        cp -rvf ../code/../jekyll_build/* . 
         popd
         ls -la site/ 
     - name: Publish
