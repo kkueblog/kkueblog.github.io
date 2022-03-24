@@ -27,7 +27,7 @@ jobs:
       uses: helaili/jekyll-action@v2
       with:
         jekyll_env: prod
-        jekyll_src: code
+        jekyll_src: code/docs
         build_only: true
     - name: Clean website
       run: |
