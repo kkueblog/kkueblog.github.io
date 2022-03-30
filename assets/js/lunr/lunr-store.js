@@ -10,16 +10,4 @@ var store = [{
         "tags": [],
         "url": "/blog/%EC%99%B8%EC%83%81%EC%9D%80%EC%96%B4%EB%A6%BC%EC%97%86%EC%A7%80/",
         "teaser": null
-      },{
-        "title": "Hello world",
-        "excerpt":"Hello world!  ","categories": [],
-        "tags": [],
-        "url": "/blog/hello-world/",
-        "teaser": null
-      },{
-        "title": "Yes, I am ready to write somthing.",
-        "excerpt":"Hellow world 2.  ","categories": [],
-        "tags": [],
-        "url": "/blog/ready-to-write/",
-        "teaser": null
       }]
