@@ -5,6 +5,12 @@ var store = [{
         "url": "/blog/%EC%9E%91%EC%9D%80%EC%88%A0%EC%A7%91%EB%B0%A9%EB%9E%91%EA%B8%B0%EC%98%88%EA%B3%A0/",
         "teaser": null
       },{
+        "title": "작은 술집 방랑기 - 외상은 어림없지",
+        "excerpt":"과거와 기록에 약한 나는 이 술집에 처음 들렀을 때가 언제인지를 찾기 위해 블로그를 한참 뒤져야 했고 가까스로 그 때가 2009년 무렵이었음을 알았다. 2009라는 숫자는 나를 그 때의 기억속으로 이끌 뿐만 아니라 현재의 나를 몹시 고통스럽게 한다. 별다른 목표도 없이 무기력하게 보냈던 5년간의 세월을 생각하는 것은 몹시 괴롭다. 어쨌든 이 술집을...","categories": [],
+        "tags": [],
+        "url": "/blog/%EC%99%B8%EC%83%81%EC%9D%80%EC%96%B4%EB%A6%BC%EC%97%86%EC%A7%80/",
+        "teaser": null
+      },{
         "title": "Hello world",
         "excerpt":"Hello world!  ","categories": [],
         "tags": [],
