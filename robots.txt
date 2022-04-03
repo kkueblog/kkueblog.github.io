@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+
 Sitemap: https://kkuepark.github.io/blog/sitemap.xml
