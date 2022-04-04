@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kkuepark.github.io/blog/sitemap.xml
+Sitemap: https://kkuepark.github.io/sitemap.xml
