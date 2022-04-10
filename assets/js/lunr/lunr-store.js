@@ -365,6 +365,12 @@ var store = [{
         "url": "/20090126/%EB%82%9A%EC%8B%9C%EC%9E%85%EB%AC%B8%EA%B8%B01/",
         "teaser": null
       },{
+        "title": "눈 내리던 날",
+        "excerpt":" 2009-01-25   &lt;코엑스, 고물상, 집 앞, 수원역 뒷편&gt; 2009-01-24  ","categories": ["낡은서랍"],
+        "tags": ["사진"],
+        "url": "/20090131/%EB%88%88%EB%82%B4%EB%A6%AC%EB%8D%98%EB%82%A0/",
+        "teaser": null
+      },{
         "title": "시래기와 진돗개",
         "excerpt":"   수안보 가던 날 어느 주유소에서   ","categories": ["習作"],
         "tags": ["사진"],
@@ -939,6 +945,12 @@ var store = [{
         "excerpt":"내가 좋아하는 호가든 맥주는 호가든 잔에 따라 마셔야 제맛이다. 호가든 잔에는 호가든 한 병이 정확하게 담긴다. 역시 내가 좋아하는 하이네켄은 하이네켄 전용잔에 따라 마셔야 맛있다. 그런데 하이네켄 한 병은 하이네켄 전용 잔에 다 따를 수가 없다. 이유가 있을까? 세상에는 굳이 이유를 몰라도 되는 것들이 있게 마련이다.       ”외상은 어림없지”, 연신내   ","categories": ["낡은서랍"],
         "tags": ["연작"],
         "url": "/20120223/%EB%8B%A8%EA%B3%A8%EC%88%A0%EC%A7%9115%ED%98%B8%EA%B0%80%EB%93%A0%EA%B3%BC%ED%95%98%EC%9D%B4%EB%84%A4%EC%BC%84%EC%9D%98%EB%B9%84%EB%B0%80/",
+        "teaser": null
+      },{
+        "title": "햇살 좋던 오후 수원 화성 연무대",
+        "excerpt":"   햇살 좋던 오후 화성 연무대에서   PENTAX ME Super SE/SMC K24mm/Fuji Superia X-TRA 400     ","categories": ["낡은서랍"],
+        "tags": ["사진"],
+        "url": "/20120224/%ED%96%87%EC%82%B4%EC%A2%8B%EB%8D%98%EC%98%A4%ED%9B%84%EC%88%98%EC%9B%90%ED%99%94%EC%84%B1%EC%97%B0%EB%AC%B4%EB%8C%80/",
         "teaser": null
       },{
         "title": "수원 화성 나들이",
