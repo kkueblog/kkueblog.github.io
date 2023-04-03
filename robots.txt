@@ -3,4 +3,5 @@ Allow: /
 Disallow: /year-archive
 Disallow: /categories
 Disallow: /tags
+Disallow: /page
 Sitemap: https://kkuepark.github.io/sitemap.xml
