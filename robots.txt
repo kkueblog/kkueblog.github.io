@@ -1,7 +1,4 @@
 User-agent: *
-Allow: /
-Disallow: /year-archive
-Disallow: /categories
-Disallow: /tags
-Disallow: /page
+Disallow: /
+Allow: /post/
 Sitemap: https://kkuepark.github.io/sitemap.xml
