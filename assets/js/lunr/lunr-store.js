@@ -1552,4 +1552,10 @@ var store = [{
         "tags": [],
         "url": "/post/202303162140",
         "teaser": null
+      },{
+        "title": "우울증",
+        "excerpt":"A New Post layout: single title: 우울증 date: 2023-06-11 21:46 categories: 낡은서랍 tags: [] — 내 삶이라는 캔바스의 배경색은 우울이었다. 나의 Mood는 늘 Blue였다. 그렇게는 살아갈 수 없기 때문에 약에 취해서 멀쩡한 사람 행세를 할 뿐이었다. 약이란 것은 책이 될 때도 있었고 음악이 될 때도 있었지만 대체로는 술이었다. 공돌이 용어로...","categories": [],
+        "tags": [],
+        "url": "/post/202306110000",
+        "teaser": null
       }]
