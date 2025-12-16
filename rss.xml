@@ -5,8 +5,8 @@
     <description>KKUE PARK&apos;S BLOG</description>
     <link>https://kkueblog.github.io/</link>
     <atom:link href="https://kkueblog.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Dec 2025 22:40:02 +0900</pubDate>
-    <lastBuildDate>Tue, 16 Dec 2025 22:40:02 +0900</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 22:52:27 +0900</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 22:52:27 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -16,6 +16,8 @@
         <pubDate>Tue, 16 Dec 2025 22:30:00 +0900</pubDate>
         <link>https://kkueblog.github.io/post/202512162230</link>
         <guid isPermaLink="true">https://kkueblog.github.io/post/202512162230</guid>
+        
+        <category>밥벌이</category>
         
         
         <category>일기</category>
