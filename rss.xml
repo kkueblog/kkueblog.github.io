@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KKUE PARK'S BLOG</title>
-    <description>KKUE PARK'S BLOG</description>
+    <title>KKUE PARK&apos;S BLOG</title>
+    <description>KKUE PARK&apos;S BLOG</description>
     <link>https://kkueblog.github.io/</link>
     <atom:link href="https://kkueblog.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Feb 2024 00:37:03 +0900</pubDate>
-    <lastBuildDate>Tue, 20 Feb 2024 00:37:03 +0900</lastBuildDate>
-    <generator>Jekyll v3.9.5</generator>
+    <pubDate>Tue, 16 Dec 2025 11:06:03 +0900</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 11:06:03 +0900</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
     
       <item>
         <title>작은 술집 방랑기 - 몬스터레빗</title>
@@ -659,7 +659,6 @@
 &lt;p&gt;견딜 수 없는 날들은 견디지 마라&lt;/p&gt;
 
 &lt;p&gt;견딜 수 없는 사랑은 견디지 마라&lt;/p&gt;
-
 </description>
         <pubDate>Fri, 04 Dec 2015 16:50:00 +0900</pubDate>
         <link>https://kkueblog.github.io/post/201512041650</link>
@@ -900,7 +899,6 @@
 &lt;p&gt;QL17/Agfa Vista 400&lt;/p&gt;
 
 &lt;p&gt;2015.7&lt;/p&gt;
-
 </description>
         <pubDate>Tue, 27 Oct 2015 00:32:00 +0900</pubDate>
         <link>https://kkueblog.github.io/post/201510270032</link>

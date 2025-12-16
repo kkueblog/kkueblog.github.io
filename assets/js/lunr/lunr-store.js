@@ -246,7 +246,7 @@ var store = [{
         "teaser": null
       },{
         "title": "눈오는 저녁 숲가에 서서 - 프로스트",
-        "excerpt":"Stopping by Woods On a Snowy Evening 눈오는 저녁 숲가에 서서 Robert Frost - -프로스트- Whose woods there are I think I know His house is in the village though; He will not see me stopping here To watch his woods fill up with snow. 이 숲이 누구의 숲인지 알...","categories": ["書齋"],
+        "excerpt":"Stopping by Woods On a Snowy Evening 눈오는 저녁 숲가에 서서 Robert Frost Whose woods there are I think I know His house is in the village though; He will not see me stopping here To watch his woods fill up with snow. 이 숲이 누구의 숲인지 알 것도 같다....","categories": ["書齋"],
         "tags": [],
         "url": "/post/200807150959",
         "teaser": null
@@ -282,7 +282,7 @@ var store = [{
         "teaser": null
       },{
         "title": "가을에는 달",
-        "excerpt":"   春有百花秋有月   夏有凉風冬有雪   若無閑事掛心頭   便是人間好時節   봄에는 꽃   가을에는 달   여름엔 시원한 바람   겨울엔 눈   공연히 마음쓰지 않으면   언제나 좋은 시절일세   -무문혜개無門慧開 -   ","categories": ["書齋"],
+        "excerpt":"   春有百花秋有月   夏有凉風冬有雪   若無閑事掛心頭   便是人間好時節   봄에는 꽃   가을에는 달   여름엔 시원한 바람   겨울엔 눈   공연히 마음쓰지 않으면   언제나 좋은 시절일세   무문혜개無門慧開  ","categories": ["書齋"],
         "tags": ["꽃","절집"],
         "url": "/post/200810062243",
         "teaser": null
@@ -372,7 +372,7 @@ var store = [{
         "teaser": null
       },{
         "title": "시래기와 진돗개",
-        "excerpt":"   수안보 가던 날 어느 주유소에서   ","categories": ["習作"],
+        "excerpt":"   수안보 가던 날 어느 주유소에서  ","categories": ["習作"],
         "tags": ["사진"],
         "url": "/post/200902100028",
         "teaser": null
@@ -456,7 +456,7 @@ var store = [{
         "teaser": null
       },{
         "title": "역광",
-        "excerpt":"      구곡폭포 가는 길에서   ","categories": ["習作"],
+        "excerpt":"      구곡폭포 가는 길에서  ","categories": ["習作"],
         "tags": ["사진","습작"],
         "url": "/post/200906042343",
         "teaser": null
@@ -528,7 +528,7 @@ var store = [{
         "teaser": null
       },{
         "title": "코스모스",
-        "excerpt":"바람 좋고 따스했던   가을 오후   컬러는 놓쳤지만   바람 한 자락   햇살 한줌은   잡은 것 같다              ","categories": ["習作"],
+        "excerpt":"바람 좋고 따스했던   가을 오후   컬러는 놓쳤지만   바람 한 자락   햇살 한줌은   잡은 것 같다         고양시 어느 길가에서   ","categories": ["習作"],
         "tags": ["사진","습작"],
         "url": "/post/200909240113",
         "teaser": null
@@ -900,7 +900,7 @@ var store = [{
         "teaser": null
       },{
         "title": "시비(是非)의 진실",
-        "excerpt":"시비(是非)의 진실   시비(是非)의 진실이라는 것은   많은 사람들이 말한다고 해서 단정지어서도 안 되며   한 사람의 말이라고 해서 버려서도 안 된다   是非之眞 不可以衆口斷 不可以單辭棄   시비지진 불가이중구단 불가이단사기      이익(李瀷 1681~1763)  &lt;관물편(觀物篇)&gt; 《성호전서(星湖全書)》       ","categories": ["書齋"],
+        "excerpt":"시비(是非)의 진실   시비(是非)의 진실이라는 것은   많은 사람들이 말한다고 해서 단정지어서도 안 되며   한 사람의 말이라고 해서 버려서도 안 된다   是非之眞 不可以衆口斷 不可以單辭棄   시비지진 불가이중구단 불가이단사기   이익(李瀷 1681~1763)  관물편(觀物篇) 《성호전서(星湖全書)》     ","categories": ["書齋"],
         "tags": [],
         "url": "/post/201112042228",
         "teaser": null
@@ -978,7 +978,7 @@ var store = [{
         "teaser": null
       },{
         "title": "태백 터미널에서",
-        "excerpt":"   터미널, 그리움의 出入口   VITO B/Fuji Superia X-TRA 400/BW 전환    ","categories": ["낡은서랍"],
+        "excerpt":"   터미널, 그리움의 出入口   VITO B/Fuji Superia X-TRA 400/BW 전환  ","categories": ["낡은서랍"],
         "tags": ["사진","연작","터미널"],
         "url": "/post/201203202131",
         "teaser": null
@@ -1086,7 +1086,7 @@ var store = [{
         "teaser": null
       },{
         "title": "술집",
-        "excerpt":"허전한 마음에 술집에 가면   몇시까지 마실 수 있냐고  묻곤 한다  언제 술 생각 날줄 알고 술집을 예약하고 가는 것도 웃긴 일이지만  술집에서 시간됐다고 쫒겨나는 것도 참담한 일이다.   “한 잔만 더 마시면 안될까요?”          술집 “외상은 어림없지”, 연신내, 2012   KODAK Retina IIa/X-TRA400   ","categories": ["낡은서랍"],
+        "excerpt":"허전한 마음에 술집에 가면   몇시까지 마실 수 있냐고  묻곤 한다  언제 술 생각 날줄 알고 술집을 예약하고 가는 것도 웃긴 일이지만  술집에서 시간됐다고 쫒겨나는 것도 참담한 일이다.   “한 잔만 더 마시면 안될까요?”          술집 “외상은 어림없지”, 연신내, 2012   KODAK Retina IIa/X-TRA400  ","categories": ["낡은서랍"],
         "tags": ["술집","습작"],
         "url": "/post/201208232327",
         "teaser": null
