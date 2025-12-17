@@ -5,9 +5,9 @@
     <description>KKUE PARK&apos;S BLOG</description>
     <link>https://kkueblog.github.io/</link>
     <atom:link href="https://kkueblog.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Dec 2025 15:34:04 +0900</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 15:34:04 +0900</lastBuildDate>
-    <generator>Jekyll v3.10.0</generator>
+    <pubDate>Wed, 17 Dec 2025 22:54:18 +0900</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 22:54:18 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>회식</title>
@@ -18,8 +18,6 @@
         <guid isPermaLink="true">https://kkueblog.github.io/post/202512162340</guid>
         
         <category>밥벌이</category>
-        
-        <category>퇴사</category>
         
         
         <category>일기</category>
